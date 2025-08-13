@@ -12,4 +12,8 @@
 - 🛠 React, Node.js
 - 📊 MySQL, MongoDB
 
+- ## Projetos
+- [To-Do List App](https://github.com/gustavo01-dev/todo-list-app): Aplicativo simples para gerenciar tarefas.
+- [Portfolio Website](https://github.com/gustavo01-dev/portfolio-website): Meu site pessoal para mostrar projetos.
+
 
